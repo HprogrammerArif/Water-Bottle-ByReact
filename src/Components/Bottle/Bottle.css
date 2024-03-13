@@ -6,3 +6,8 @@
 .bottle img {
   width: 200px;
 }
+
+.btn {
+  background-color: black;
+  color: aliceblue;
+}
