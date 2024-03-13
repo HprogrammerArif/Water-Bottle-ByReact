@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "category": "Water",
+    "name": "Pure Spring Water",
+    "seller": "Aqua Distributors",
+    "price": 1.99,
+    "stock": 1000,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1544003484-3cd181d17917?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 2,
+    "category": "Wine",
+    "name": "Red Velvet Reserve",
+    "seller": "Vineyard Elegance",
+    "price": 29.99,
+    "stock": 50,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 3,
+    "category": "Soda",
+    "name": "FizzPop Classic Cola",
+    "seller": "Soda Delight Co.",
+    "price": 2.49,
+    "stock": 200,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1589365278144-c9e705f843ba?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 4,
+    "category": "Juice",
+    "name": "Tropical Bliss Punch",
+    "seller": "Juice Haven",
+    "price": 3.99,
+    "stock": 150,
+    "rating": 4.6,
+    "image": "https://plus.unsplash.com/premium_photo-1681408059522-b83aa9c0a0be?q=80&w=1436&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]
